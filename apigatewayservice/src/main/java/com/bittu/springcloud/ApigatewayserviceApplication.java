@@ -11,11 +11,5 @@ public class ApigatewayserviceApplication {
 		SpringApplication.run(ApigatewayserviceApplication.class, args);
 	}
 
-//	echo "# spring-cloud-practice" >> README.md
-//	git init
-//	git add README.md
-//	git commit -m "first commit"
-//	git branch -M main
-//	git remote add origin https://github.com/kuntaldas112/spring-cloud-practice.git
-//	git push -u origin main
+
 }
